@@ -1,1 +1,1 @@
-Sitemap: https://blue-nguyen.github.io/blue-nguyen-works/sitemap.xml
+Sitemap: https://blue-nguyen.github.io/sitemap.xml
